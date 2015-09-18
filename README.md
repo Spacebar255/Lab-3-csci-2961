@@ -1,1 +1,1 @@
-Part 1 - [https://github.com/Spacebar255/exercise01.git](Happy Branches)
+Part 1 - [Happy Branches](https://github.com/Spacebar255/exercise01.git)
