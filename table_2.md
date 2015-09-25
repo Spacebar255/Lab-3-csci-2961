@@ -1,0 +1,1 @@
+I don't entirely know yet. I will probably end up making a chrome extention.
